@@ -1,4 +1,5 @@
 Lee este archivo desde tu pc y modificale, las flechas de abajo
 
+Realizar los siguientes ejercicios logicos:
 
--> ->->->->->->->
+Realizar un triangulo rectangulo, que segun dada la medida sea el tamaño del triangulo
