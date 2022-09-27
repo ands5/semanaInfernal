@@ -3,3 +3,23 @@ Lee este archivo desde tu pc y modificale, las flechas de abajo
 Realizar los siguientes ejercicios logicos:
 
 Realizar un triangulo rectangulo, que segun dada la medida sea el tamaño del triangulo
+
+
+----------------- Ejercicio -------------------
+
+Se debe realizar la clase Formas, la cual tendra los atributos "ancho" y "forma"
+
+el atributo "forma" puede ser uno de los siguientes: cuadrado, rectangulo, triangulo y circulo
+
+la clase tendra 1 metodo
+
+makeTriangule: que recibe un tamaño, si la forma es diferente a un triangulo, no se realiza nada y
+		y se indica un mensaje que indica ("este no es un triangulo").
+				
+		la minima forma del triangulo es:
+
+		*
+		**
+
+		el tamaño recibido por el metodo, debe darle mas tamaño al objeto.
+
